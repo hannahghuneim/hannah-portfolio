@@ -71,6 +71,10 @@ export const siteConfig = {
       school: "DePaul University",
       degree: "Master of Science in Human Computer Interaction",
       dateRange: "2023 - Present",
+      achievements: [
+        "President of Computer Science Society",
+        "Director of Social Media of Computer Science Society",
+      ],
     },
     {
       school: "DePaul University",
