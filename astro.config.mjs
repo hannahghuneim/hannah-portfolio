@@ -2,5 +2,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   output: "static",
-  base: "/hannah-portfolio",
+  site: "https://hannahghuneim.github.io",
+  base: "/hannah-portfolio/",
 });
