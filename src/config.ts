@@ -21,7 +21,7 @@ export const siteConfig = {
     {
       name: "Cultural and Demographic Influences on the Acceptance of Biometric Authentication Systems",
       description:
-        "A literature review examining how cultural and demographic factors influence user acceptance of biometric authentication technologies across global contexts.”",
+        "A literature review examining how cultural and demographic factors influence user acceptance of biometric authentication technologies across global contexts.",
       link: "https://drive.google.com/file/d/1P9mLHFzW5rS5Vy1m7E80Mmjb-GJc1Xm4/view?usp=sharing",
       skills: ["Insight Synthesis","Cross-Cultural UX Analysis","Privacy and Trust-Centered Design Thinking"],
     },
