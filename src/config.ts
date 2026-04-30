@@ -12,7 +12,7 @@ export const siteConfig = {
   skills: ["Figma", "User Research", "React", "HTML", "CSS", "Python",],
   projects: [
     {
-      name: "Combating Misinformation and Promoting Fact-Checked Content on Social Media",
+      name: "Combating Misinformation and Promoting Fact Checked Content on Social Media",
       description:
         "A research-driven group project exploring how integrated fact-checking tools and credibility cues can reduce misinformation and improve trust on social media platforms.",
       link: "https://drive.google.com/file/d/1x7iDv3ZzxsigiAkedKYSVvjzr_jks3YM/view?usp=sharing",
@@ -71,10 +71,6 @@ export const siteConfig = {
       school: "DePaul University",
       degree: "Master of Science in Human Computer Interaction",
       dateRange: "2023 - Present",
-      achievements: [
-        "President of Computer Science Society",
-        "Director of Social Media of Computer Science Society",
-      ],
     },
     {
       school: "DePaul University",
